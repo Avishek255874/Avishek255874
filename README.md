@@ -36,4 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avishek255874&show_icons=true&locale=en" alt="avishek255874" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avishek255874&" alt="avishek255874" /></p>
-https://api.daily.dev/devcards/4c01c108eb1146d3a5080fa1d56aa241.png?r=kps
+<a href="https://app.daily.dev/avisheksharma6290"><img src="https://api.daily.dev/devcards/4c01c108eb1146d3a5080fa1d56aa241.png?r=kps" width="400" alt="Avishek Sharma's Dev Card"/></a>
