@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS ,BOOTSTRAP, JAVA, C+ , VITE-REACT**
 
-- 📫 How to reach me **avisheksharma6290@gmai.com**
+- 📫 How to reach me **avisheksharma6290@gmail.com**
 
 - ⚡ Fun fact **I think I am Good coder**
 
